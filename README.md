@@ -9,7 +9,7 @@ coupler: b
 nosecone: en fabrication
 fibre glass sleeves: a acheter
 shockcords: b
-main chute (6ft?): à prendre du gaul
+main chute (48in et 42in): x
 motor (448g): attente de mail
 motor tube: b
 bulkhead wood: trouvé?
