@@ -9,11 +9,14 @@ coupler: b
 nosecone: en fabrication
 fibre glass sleeves: a acheter
 shockcords: b
-main chute: à mesurer 
+main chute (6ft?): à prendre du gaul
 motor (448g): attente de mail
 motor tube: b
-bulkhead wood: chercher maison
+bulkhead wood: trouvé?
 bulk head metal rod: utiliser un clous 
 fin fiberglass w/ wood core: a build
+masse morte: écrire au dep de gmc
+retainer: conceptualiser
+
 
 
