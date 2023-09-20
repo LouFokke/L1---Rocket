@@ -6,13 +6,13 @@ Parachute différente taille: https://www.allrockets.ca/Build/Parachutes?sort=20
 
 bodytube: b
 coupler: b
-nosecone:
+nosecone: en fabrication
 shockcords: b
-main chute: 
-motor: 
+main chute: chercher gaul
+motor (448g): attente de mail
 motor tube: b
-bulkhead wood:
-bulk head metal rod:
-fin fiberglass plate:
+bulkhead wood: chercher gaul/maison
+bulk head metal rod: chercher gaul
+fin fiberglass plate: chercher gaul
 
 
