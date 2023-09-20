@@ -7,12 +7,13 @@ Parachute différente taille: https://www.allrockets.ca/Build/Parachutes?sort=20
 bodytube: b
 coupler: b
 nosecone: en fabrication
+fibre glass sleeves: a acheter
 shockcords: b
-main chute: chercher gaul
+main chute: à mesurer 
 motor (448g): attente de mail
 motor tube: b
-bulkhead wood: chercher gaul/maison
-bulk head metal rod: chercher gaul
-fin fiberglass plate: chercher gaul
+bulkhead wood: chercher maison
+bulk head metal rod: utiliser un clous 
+fin fiberglass w/ wood core: a build
 
 
